@@ -19,7 +19,7 @@ I focus on bringing ideas to life through **HTML**, **CSS**, and **JavaScript**,
 ### 📫 Let's Connect
 -  [Portfolio (coming soon)]()  
 -  [LinkedIn](https://www.linkedin.com/in/olaolu-ogunwale-274b79395/?trk=opento_sprofile_details)  
--  [Twitter]([https://twitter.com](https://x.com/Omoba__2?t=Kur5Az0rVSk62J5Z5sTSLw&s=35))
+-  [Twitter](https://x.com/Omoba__2?t=Kur5Az0rVSk62J5Z5sTSLw&s=35)
 -  [Telegram](https://t.me/Omoba_2)  
 -  olaoluogunwale@gmail.com 
 
