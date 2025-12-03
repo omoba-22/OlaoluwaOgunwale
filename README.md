@@ -1,28 +1,62 @@
-#  Hey, I'm Olaolu Ogunwale
-
- I'm a **Frontend Developer** passionate about crafting clean, responsive, and visually engaging web experiences.  
-I focus on bringing ideas to life through **HTML**, **CSS**, and **JavaScript**, and I’m currently exploring frameworks and best practices for modern, scalable design.
-
- **Currently learning:** Building interactive UI components, responsive design systems, and JavaScript optimization.  
- **Interests:** UI/UX design, creative web interactions, and solving real-world problems through code.  
- **Goal:** To grow into a full-stack developer while mastering the art of frontend engineering.
-
----
-
-###  Tech Stack
-- HTML | CSS | JavaScript  
-- Bootstrap | Tailwind CSS  
-- Git & GitHub | Responsive Design
+# OLAOLU OGUNWALE
+Frontend Developer  
+Email: olaoluogunwale@gmail.com  
+LinkedIn: https://www.linkedin.com/in/olaolu-ogunwale-274b79395  
+Twitter: https://x.com/Omoba__2  
+Telegram: https://t.me/Omoba_2  
+Portfolio: Coming Soon  
 
 ---
 
-### 📫 Let's Connect
--  [Portfolio (coming soon)]()  
--  [LinkedIn](https://www.linkedin.com/in/olaolu-ogunwale-274b79395/?trk=opento_sprofile_details)  
--  [Twitter](https://x.com/Omoba__2?t=Kur5Az0rVSk62J5Z5sTSLw&s=35)
--  [Telegram](https://t.me/Omoba_2)  
--  olaoluogunwale@gmail.com 
+## PROFILE SUMMARY
+Motivated and detail-oriented Frontend Developer with strong foundational skills in HTML, CSS, and JavaScript. I specialize in building clean, responsive, and user-friendly interfaces. I am committed to continuous learning and currently expanding my skills in UI/UX principles and modern frontend development practices.
+
+I am passionate about creating real-world solutions through code and aim to grow into a full-stack developer while strengthening my frontend expertise.
 
 ---
 
-> “Code is art. Design is emotion. I blend both.”
+## TECHNICAL SKILLS
+
+**Languages:**  
+HTML, CSS, JavaScript
+
+**Frameworks / Libraries:**  
+Bootstrap, Tailwind CSS, REACT
+
+**Tools & Others:**  
+Git, GitHub, Responsive Web Design, Basic UI/UX design principles
+
+---
+
+## PROJECTS  
+*(More projects available on GitHub)*
+
+**Top 20 Movie Suggestion Web App**  
+A simple web application that displays a curated list of current trending movies.  
+Technologies used: HTML, CSS, JavaScript.
+
+**Responsive Landing Pages**  
+Designed and developed multiple responsive landing pages focused on clean UI layouts and mobile optimization.  
+Technologies used: HTML, CSS, JavaScript, Tailwind CSS.
+
+---
+
+## CURRENT FOCUS
+- Building interactive UI components  
+- Improving JavaScript performance  
+- Deepening understanding of responsive design systems  
+- Exploring modern frontend frameworks  
+
+---
+
+## CAREER GOAL
+To become a well-rounded full-stack developer while maintaining strong frontend development expertise and delivering high-quality digital experiences.
+
+---
+
+## CONTACT
+Email: olaoluogunwale@gmail.com  
+LinkedIn: https://www.linkedin.com/in/olaolu-ogunwale-274b79395  
+Twitter: https://x.com/Omoba__2  
+Telegram: https://t.me/Omoba_2  
+Portfolio: Coming Soon
