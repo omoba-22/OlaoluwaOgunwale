@@ -4,7 +4,7 @@ Email: olaoluogunwale@gmail.com
 LinkedIn: https://www.linkedin.com/in/olaolu-ogunwale-274b79395  
 Twitter: https://x.com/Omoba__2  
 Telegram: https://t.me/Omoba_2  
-Portfolio: Coming Soon  
+Portfolio: https://omoba-22.github.io/Portfolio/indexx
 
 ---
 
@@ -59,4 +59,4 @@ Email: olaoluogunwale@gmail.com
 LinkedIn: https://www.linkedin.com/in/olaolu-ogunwale-274b79395  
 Twitter: https://x.com/Omoba__2  
 Telegram: https://t.me/Omoba_2  
-Portfolio: Coming Soon
+Portfolio: https://omoba-22.github.io/Portfolio/indexx
